@@ -2,7 +2,7 @@
 
 Task 2: Number Guessing Game Implementation (Slash Mark Internship)
 
-This repository contains the implementation of Task 2 for the Slash Mark Company internship. The task involved creating a number guessing game using Python with a tkinter GUI. Players can guess numbers within a specified range and receive feedback on their guesses.
+The Number Guessing Game GUI is a Python program that offers an interactive interface for playing the number guessing game. This graphical application enables users to guess numbers within a specified range and receive feedback on their guesses.
 
 ## **Features**
 
