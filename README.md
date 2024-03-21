@@ -1,7 +1,5 @@
 # **Number Guessing Game**
 
-Task 2: Number Guessing Game Implementation (Slash Mark Internship)
-
 The Number Guessing Game GUI is a Python program that offers an interactive interface for playing the number guessing game. This graphical application enables users to guess numbers within a specified range and receive feedback on their guesses.
 
 ## **Features**
