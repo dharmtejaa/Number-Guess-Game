@@ -11,7 +11,9 @@ The Number Guessing Game GUI is a Python program that offers an interactive inte
 ## **Requirements**
 
 - Python 3.x
+
 - tkinter library (usually comes pre-installed with Python)
+  
 
 ## **Installation of Required Modules**
 
@@ -31,11 +33,10 @@ If you don't have the tkinter library installed or encounter any errors related 
 To run the Number Guessing Game:
 
 1. Ensure you have Python installed on your system.
-2. Copy the provided code into a Python file (e.g.,`number_guessing_game.py`).
+2. Copy the provided code into a Python file (e.g.,`NumberGame.py`).
 3. Run the Python file using the following command:
 
-:> python number_guessing_game.py
-
+:> python NumberGame.py
 
 ## **Notes**
 
