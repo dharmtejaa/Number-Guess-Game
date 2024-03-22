@@ -45,4 +45,4 @@ To run the Number Guessing Game:
 
 ## **Support**
 
-For any questions, suggestions, or issues, please contact **kasa pogu dharma teja** at **dharmateja238@gmail.com**.
+For any questions, suggestions, or issues, please contact at **dharmateja238@gmail.com**.
